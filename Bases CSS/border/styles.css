@@ -1,0 +1,22 @@
+div{
+    background: rgba(0, 255, 38, 0.849);
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+div{
+    border: 3px solid black;
+    border-radius: 5px 30px 15px 50px;
+}
+input{
+    margin: 10px;
+    padding: 6px 9px;
+    border: none;
+    border-top: 3px solid rgb(255, 255, 255);
+    border-left: 3px solid rgb(255, 255, 255);
+    background: transparent;
+    color: greenyellow;
+}
+body{
+    background-color: black;
+}

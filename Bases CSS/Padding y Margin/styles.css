@@ -1,0 +1,32 @@
+.formulario {
+    background: #0d25e0;
+    padding: 50px;
+}
+.formulario_input {
+    padding: 6px 10px;
+    width: 100%;
+    margin: 10px;
+}
+.formulario_submit{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background: #eb12e0;
+    width: 50%;
+}
+.box{
+    background: #eb630f;
+    padding: 50px;
+    margin: 10px;
+}
+.box_pequena{
+    background: red;
+    height: 150px;
+    width: 150px;
+    margin-bottom: 10px;
+}
+.box_grande{
+    background: green;
+    height: 150px;
+    width: 150px;
+    margin-top: 30px;
+}
