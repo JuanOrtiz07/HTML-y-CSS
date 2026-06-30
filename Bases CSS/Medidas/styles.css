@@ -1,0 +1,34 @@
+div{
+    background: #ededed;
+    padding: 20px;
+    font-family: sans-serif;
+    border-left:4px solid #939292;
+    width: 90%;
+}
+h1{
+    margin:2px;
+    font-size: 150%;
+}
+span{
+    color:#939292;
+    font-size:16px;
+    font-weight: 100px;
+}
+p{
+    background: #7b6565;
+    margin:1%;
+    width: 80%;
+}
+.prueba{
+    background: #5cbbf2;
+    height: 50vb;
+}
+.titulo{
+    margin: 0px;
+    font-size: 35px;
+
+}
+.parrafo{
+    background:#5cbbf2;
+    width: 15px;
+}
