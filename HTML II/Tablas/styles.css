@@ -1,0 +1,11 @@
+body{
+    background-color: #111;
+    color:#ededed
+}
+td, th{
+    border:1px solid #ededed;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
