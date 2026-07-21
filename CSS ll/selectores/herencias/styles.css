@@ -1,0 +1,17 @@
+body{
+    color: #b90c0c;
+    font-family:sans-serif;
+}
+div{
+    width: 75%;
+}
+h1{
+    color: inherit;
+}
+/*Hay propiedades heredadas pero otras no a menos que se especifique
+por ej, el width no se ereda automaticamente, solo si se especifica, pero
+por otro lado el color si lo hace*/
+p{
+    color: #171817;
+    width: inherit;
+}

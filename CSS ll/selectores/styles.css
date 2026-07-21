@@ -1,0 +1,20 @@
+img[src="ImagenPC.jpg"] {
+    width: 95%;
+}
+ul li{
+    color: rgb(45, 194, 15);
+}
+ul strong{
+    color: rgb(18, 18, 18);
+}
+ul>strong{
+    color: rgb(205, 14, 14);
+}
+
+h1 + p {
+    color: rgb(46, 14, 189);
+}
+
+ul ~ p {
+    color: rgb(239, 38, 219);
+}
