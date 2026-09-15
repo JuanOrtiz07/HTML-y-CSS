@@ -1,0 +1,41 @@
+h1 {
+    color: rgb(122, 86, 193);
+    font-family: 'Arial', sans-serif;
+    margin: 30px;
+}
+/*Cuando pasamos el mouse por encima del h1, cambiamos el color y el fondo*/
+h1:hover{
+    color: #f00;
+    background-color: #eee;
+}
+/*Cuando hacemos click en el h1, cambiamos el color y el fondo*/
+h1:active{
+    color: #fff;
+    background-color: #7d0404;
+}
+/*Seleccionar el primer elemento de la lista*/
+li:first-child {
+    color: rgb(211, 14, 191)
+}
+/*Seleccionar el ultimo elemento de la lista*/
+li:last-child {
+    color: rgb(14, 191, 211)
+}
+/*Seleccionar el n elemento de la lista*/
+li:nth-child(2) {
+    color: rgb(14, 191, 14)
+}
+/*excluye un elemento por medio de la clase del mismo*/
+.lista li:not(.excluir){
+    color: rgb(28, 223, 226);
+}
+/*Seleccionar el elemento que esta vacio*/
+div:empty{
+    background-color: rgb(127, 49, 10);
+    padding: 40px;
+}
+
+input[type=checkbox]:checked{
+    margin: 40px;
+}
+
